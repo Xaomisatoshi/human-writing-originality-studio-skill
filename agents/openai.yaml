@@ -1,0 +1,12 @@
+interface:
+  display_name: Human Writing Originality Studio
+  short_description: Texte natürlich verbessern und Originalitätsrisiken prüfen.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
